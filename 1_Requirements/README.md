@@ -10,3 +10,5 @@ The Examination Management System is a system created with the objectives to ass
 
 Moreover, filing paper-based form not only encompass of exchanging schedule between invigilators, but also in recording attendances of invigilators and students for each examination session. Invigilators need to fill-up their attendance manually at the examination unit, while students need to write their details in Examination Attendance Slip  in the  examination hall  prior to  each examination  session.
 
+
+
