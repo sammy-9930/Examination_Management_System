@@ -36,6 +36,8 @@ They are add Student Details, Show Eligible Students, delete Student Record, Upd
 
 ## SWOT ANALYSIS 
 
+
+
 ## 4W's and 1'H
 ## Who: 
 This software can be used in all schools, colleges and universities.
