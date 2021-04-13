@@ -6,9 +6,30 @@ The Examination Management System is a system created with the objectives to ass
 
 ## RESEARCH
 
-### Time consuming on filing paper-based forms
+* Manually adding or removing student details from a record can be very time consuming and cumbersome . 
+* A lot of manual calculation has to be done to check if a student is eligible to attend exams. 
 
-Moreover, filing paper-based form not only encompass of exchanging schedule between invigilators, but also in recording attendances of invigilators and students for each examination session. Invigilators need to fill-up their attendance manually at the examination unit, while students need to write their details in Examination Attendance Slip  in the  examination hall  prior to  each examination  session.
+## BENEFITS OF THIS PROJECT
+
+By implementing this examination management system , it becomes easier to add or delete any student details. By using functions created , the user can easily find out if a student is eligible to take up exams by filling in basic criteria related information . This saves a lot of time and is more efficient than paperwork. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
