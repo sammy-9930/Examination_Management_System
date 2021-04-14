@@ -6,7 +6,7 @@
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-[![C/C++ CI](https://github.com/sammy-9930/Examination_Management_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/sammy-9930/Examination_Management_System/actions/workflows/c-cpp.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/sammy-9930/Examination_Management_System/actions/workflows/cpp-check.yml/badge.svg)](https://github.com/sammy-9930/Examination_Management_System/actions/workflows/cpp-check.yml) | To be added | To be added
+[![C/C++ CI](https://github.com/sammy-9930/Examination_Management_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/sammy-9930/Examination_Management_System/actions/workflows/c-cpp.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/sammy-9930/Examination_Management_System/actions/workflows/arc-cppcheck.yml/badge.svg)](https://github.com/sammy-9930/Examination_Management_System/actions/workflows/arc-cppcheck.yml) | To be added | To be added
 
 
 ## Folder Structure
