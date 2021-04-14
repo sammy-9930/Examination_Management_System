@@ -1,7 +1,7 @@
 CC=gcc
-CFLAGS=-I.
+CFLAGS=-I. -Iinc
 DEPS = student.h
-OBJ = ll.o student.o main.o
+OBJ = src/ll.o src/student.o src/main.o
 
 %.o: %.c $(DEPS)
 	$(CC) -c -o $@ $< $(CFLAGS)
@@ -10,4 +10,4 @@ exam: $(OBJ)
 	$(CC) -o $@ $^ $(CFLAGS)
 
 clean:
-	rm -f *.o *.exe
+	rm -f src/*.o *.exe
