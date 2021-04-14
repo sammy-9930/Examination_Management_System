@@ -1,5 +1,5 @@
 CC=gcc
-CFLAGS=-I. -Iinc
+CFLAGS=-I. -Iinc -std=c99
 DEPS = student.h
 OBJ = src/ll.o src/student.o src/main.o
 
