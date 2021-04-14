@@ -6,7 +6,7 @@
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-To be added | To be added | To be added | To be added
+[![C/C++ CI](https://github.com/sammy-9930/Examination_Management_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/sammy-9930/Examination_Management_System/actions/workflows/c-cpp.yml) | To be added | To be added | To be added
 
 
 ## Folder Structure
