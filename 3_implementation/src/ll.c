@@ -8,6 +8,7 @@ extern int j;
 extern float present;
 extern char money;
 extern float tdays;
+extern int eligible;
 
 
 struct Node *start = NULL;
@@ -89,6 +90,7 @@ void traverse() {
                 printf("Student roll no. = %d \n",t->student.rno);
                 printf(" Student fees = %c \n",t->student.fees);
                 printf(" Student attendence = %f \n",t->student.attend);
+                eligible++;
             }
     t = t->next;
   }

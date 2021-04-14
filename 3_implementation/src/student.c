@@ -8,7 +8,7 @@
  float present = 75.00;
  char money = 'P';
  float tdays = 1;
-
+ int eligible = 0;
 
 void add()
 {
@@ -136,6 +136,7 @@ void eligibleStudents()
            "_______________"
            "_____________ \n");
     printf("Qualified student are = \n");
+    eligible = 0;
     traverse();
     printf("________________"
            "________________"
