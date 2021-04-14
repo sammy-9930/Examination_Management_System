@@ -4,7 +4,7 @@
 
 Architecture Design 
 
-![Untitled Workspace](https://user-images.githubusercontent.com/65846052/114422292-c32f6500-9bd3-11eb-9099-f502d8a84c37.png)
+![Untitled Workspace](https://github.com/sammy-9930/Examination_Management_System/blob/main/2_Design/Architecture_Design.JPG)
 
 ## USE CASE DIAGRAM 
 
