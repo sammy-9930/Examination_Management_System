@@ -49,4 +49,4 @@ jobs:
    #     git add result.html
    #     git commit -m "[auto] Update Results for commit SHA $GITHUB_SHA"
    #     git push
-© 2021 GitHub, Inc.
+#© 2021 GitHub, Inc.
