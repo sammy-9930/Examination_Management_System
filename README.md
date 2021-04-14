@@ -17,3 +17,13 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
 
+## Contributors List and Summary
+
+PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+-------|---------|----------------|----------------|---------------|-------------|--------------
+`259883` | Samantha Menezes  | All    | 0   | 0   |0   |0
+
+## Challenges Faced and How Was It Overcome
+
+1.Making it available for both operating system
+
