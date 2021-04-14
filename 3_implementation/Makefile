@@ -5,13 +5,13 @@ OBJ = src/ll.o src/student.o src/main.o
 TEST = test/test.o unity/unity.o src/ll.o src/student.o
 
 %.o: %.c $(DEPS)
-	$(CC) -c -o $@ $< $(CFLAGS) -fPIE
+	$(CC) -c -o $@ $< $(CFLAGS) -fPIC
 
 exam: $(OBJ)
-	$(CC) -o $@ $^ $(CFLAGS) -fPIE
+	$(CC) -o $@ $^ $(CFLAGS) -fPIC
 
 utest: $(TEST)
-	$(CC) -o $@ $^ $(CFLAGS) -fPIE
+	$(CC) -o $@ $^ $(CFLAGS) -fPIC
 
 all: exam utest	
 valgrind:
