@@ -10,6 +10,6 @@ exam: $(OBJ)
 	$(CC) -o $@ $^ $(CFLAGS)
 	
 valgrind:
-	valgrind ./exam.exe
+	valgrind ./exam
 clean:
 	rm -f src/*.o *.exe
