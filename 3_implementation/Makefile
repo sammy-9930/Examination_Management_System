@@ -8,6 +8,8 @@ OBJ = src/ll.o src/student.o src/main.o
 
 exam: $(OBJ)
 	$(CC) -o $@ $^ $(CFLAGS)
-
+	
+valgrind:
+        valgrind ./exam.exe
 clean:
 	rm -f src/*.o *.exe
