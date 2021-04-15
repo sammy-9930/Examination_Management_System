@@ -16,7 +16,7 @@ Architecture Design
 
 ## STATE LEVEL DIAGRAM 
 
-
+![Untitled Workspace (1)](https://github.com/sammy-9930/Examination_Management_System/blob/main/2_Design/State_diagram.JPG))
 
 ## Tools 
 * [Draw.io](https://app.diagrams.net/)
