@@ -14,4 +14,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: make
-      run: cd 3_implementation ; make utest ; ./utest
+      run: cd 3_implementation ; make test 
