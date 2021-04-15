@@ -1,5 +1,9 @@
 #include "student.h"
-
+/**
+ * @brief this code runs first where user is given two 
+ * options to enter student data or to exit the program
+ * 
+ */
 extern int option;
 
 int main()
