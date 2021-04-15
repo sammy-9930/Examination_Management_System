@@ -21,7 +21,7 @@ Folder             | Description
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`259883` | Samantha Menezes  | All    | 0   | 0   |0   |0
+`259883` | Samantha Menezes  | All    | 0   | 0   |6   |6
 
 ## Challenges Faced and How Was It Overcome
 
