@@ -14,6 +14,10 @@ Architecture Design
 
 ![Untitled Workspace (1)](https://github.com/sammy-9930/Examination_Management_System/blob/main/2_Design/low_level_design.JPG)
 
+## STATE LEVEL DIAGRAM 
+
+
+
 ## Tools 
 * [Draw.io](https://app.diagrams.net/)
 * [Creately](https://app.creately.com/diagram/create)
