@@ -51,7 +51,7 @@ Enhance the efficiency of schools in meeting their requirements and capabilities
 # Detail Requirements
 ## High level requirements
 
-|ID	  |Description 	                                  |Category  |
+|ID	  |Description 	                                  |Category  | 
 |:----|:----------------------------------------------|:---------|
 |HR01	|User should be able to add a new student record| Technical|
 |HR02	|User should be able to update a student record	| Technical|
@@ -59,12 +59,12 @@ Enhance the efficiency of schools in meeting their requirements and capabilities
 |HR04	|User should be able to read data from a file	  | Technical|
 
 ## Low level requirements
-|ID   |Description                                                                                            |HLR ID    |
-|:----|:------------------------------------------------------------------------------------------------------|:---------|
-|LR01 |While adding the student into the list, check for the uniqueness of the Roll Number of the student.    |HR01      |
-|LR02 |User should get the data from the students and update the eligibility for the exams. User should  updates the fee status required for the eligibility of exams.       |HR02      |                                        
-|LR03 |User should get the student roll number to delete the student record and update the student’s list.    |HR03      |
-|LR04 |User should be able to read the read the data by searching student's roll number or by printing all the available records.|HR04      |
+|ID   |Description                                                                                            |HLR ID    |Status    |
+|:----|:------------------------------------------------------------------------------------------------------|:---------|----------|
+|LR01 |While adding the student into the list, check for the uniqueness of the Roll Number of the student.    |HR01      |Implemented |
+|LR02 |User should get the data from the students and update the eligibility for the exams. User should  updates the fee status required for the eligibility of exams.       |HR02      |Implemented |                                        
+|LR03 |User should get the student roll number to delete the student record and update the student’s list.    |HR03      |Implemented |
+|LR04 |User should be able to read the read the data by searching student's roll number or by printing all the available records.|HR04      |Implemented |
        
 
 
