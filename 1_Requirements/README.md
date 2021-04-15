@@ -36,7 +36,7 @@ They are add Student Details, Show Eligible Students, delete Student Record, Upd
 
 ## SWOT ANALYSIS 
 
-![Banner](https://github.com/sammy-9930/Examination_Management_System/blob/main/1_Requirements/SWOT.JPG)
+![Banner](https://github.com/sammy-9930/Examination_Management_System/blob/main/1_Requirements/SWOT_ANALYSIS.JPG)
 
 ## 4W's and 1'H
 ## Who: 
