@@ -1,5 +1,5 @@
 #include "ll.h"
-
+// global variables
 extern int count;
 extern int option;
 extern int i;
@@ -9,9 +9,19 @@ extern float present;
 extern char money;
 extern float tdays;
 extern int eligible;
-
+/**
+ * @brief code for linked list operations
+ * This is done to implement the concept of pointers and linked lists.
+ * 
+ * 
+ */
 
 struct Node *start = NULL;
+/**
+ * @brief linked list operations to insert node at beginning 
+ * 
+ * @param s[in] structure of type student with student details
+ */
 
 void insert_at_begin(Student s) {
   struct Node *t;
@@ -29,7 +39,12 @@ void insert_at_begin(Student s) {
   t->next = start;
   start = t;
 }
-
+/**
+ * @brief linked list operations to insert node at the end. 
+ * Used for adding new students to the exitsting list
+ * 
+ * @param s[in] structure of type student with student details
+ */
 void insert_at_end(Student s) {
   struct Node *t, *temp;
 
@@ -51,10 +66,13 @@ void insert_at_end(Student s) {
   temp->next = t;
   t->next   = NULL;
 }
+/**
+ * @brief function to print student details 
+ * 
+ */
 
 void print() {
-  //printf("Present : %f\n",present);
-
+  
   struct Node *t;
 
   t = start;
@@ -72,6 +90,10 @@ void print() {
   }
 
 }
+/**
+ * @brief function to print the complete student list
+ * 
+ */
 
 void traverse() {
   struct Node *t;
@@ -95,6 +117,11 @@ void traverse() {
     t = t->next;
   }
 }
+/**
+ * @brief function to delete a student record 
+ * 
+ * @param a[in] student roll number is taken as input  
+ */
 
 void delete(int a)
 {
