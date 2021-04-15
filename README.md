@@ -25,6 +25,6 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 ## Challenges Faced and How Was It Overcome
 
-1.Making it available for both operating system
-2.Dynamic memory allocation implemented and deallocated
+- Making it available for both operating system
+- Dynamic memory allocation implemented and deallocated
 
