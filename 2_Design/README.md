@@ -12,7 +12,7 @@ Architecture Design
 
 ## LOW LEVEL DESIGN
 
-![Untitled Workspace (1)]()
+![Untitled Workspace (1)](https://github.com/sammy-9930/Examination_Management_System/blob/main/2_Design/low_level_diagram.drawio)
 
 ## Tools 
 * [Draw.io](https://app.diagrams.net/)
