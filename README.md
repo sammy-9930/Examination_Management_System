@@ -19,9 +19,9 @@ Folder             | Description
 
 ## Contributors List and Summary
 
- |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
- | Samantha Menezes  | All    | 0   | 0   |6   |6
+   Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+|---------|----------------|----------------|---------------|-------------|--------------
+  Samantha Menezes  | All    | 0   | 0   |6   |6
 
 ## Challenges Faced and How Was It Overcome
 
