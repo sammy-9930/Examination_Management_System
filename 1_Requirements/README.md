@@ -55,7 +55,7 @@ Enhance the efficiency of schools in meeting their requirements and capabilities
 |:----|:----------------------------------------------|:---------|----------|
 |HR01	|User should be able to add a new student record| Technical|Implemented |
 |HR02	|User should be able to update a student record	| Technical|Implemented |
-|HR03	|User should be able to delete a patient record	| Technical|Implemented |
+|HR03	|User should be able to delete a student record	| Technical|Implemented |
 |HR04	|User should be able to read data from a file	  | Technical|Implemented |
 
 ## Low level requirements
